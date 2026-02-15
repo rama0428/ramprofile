@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rama Ahire</h1>
+<h1 align="center">Hi 👋, I'm Ram Ahire</h1>
 <h3 align="center">Senior SDET | Automation Engineer | CI/CD & Cloud Enthusiast 🚀</h3>
 
 <p align="center">
